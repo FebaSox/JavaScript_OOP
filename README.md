@@ -17,7 +17,8 @@ Your objective is to practice OOP concepts and JS class notation syntax.
 
 ### Exercise 1
 
-- Expanding from our exercise example during the lesson, create a parent class `class Person {}` with properties for `name`, `pets`, `residence`, and `hobbies`. The Person class will also have a method `info()` and `soundOff()`.
+- Expanding from our exercise example during the lesson, create a parent class `class Person {}` with properties for `name`, `pets`, `residence`, and `hob
+bies`. The Person class will also have a method `info()` and `soundOff()`.
 
 1. Use class notation to create a class named `Person`
 2. Declare the `constructor()` method with parameters `name` (string), `pets` (number), `residence` (string), and `hobbies` (array) allowed to be passed in
